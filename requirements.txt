@@ -1,0 +1,4 @@
+transformers==4.16.2
+streamlit==1.5.0
+requests==2.27.1
+pillow==8.4.0
